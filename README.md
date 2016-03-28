@@ -1,3 +1,3 @@
 # conflict_example
 
-Hello
+Nicely Done
